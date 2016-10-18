@@ -1,1 +1,10 @@
-﻿
+﻿Abstract Factory
+-------------------
+Phone numbers have a particular rule on which they get generated depending on areas and countries. 
+If at some point the application should be changed in order to support adding numbers form a new country, 
+the code of the application would have to be changed and it would become more and more complicated.
+
+In order to prevent it, the Abstract Factory design pattern is used. 
+Using this pattern a framework is defined, which produces objects that follow a general pattern and at 
+runtime this factory is paired with any concrete factory to produce objects that follow the pattern of a certain country. 
+In other words, the Abstract Factory is a super-factory which creates other factories (Factory of factories).

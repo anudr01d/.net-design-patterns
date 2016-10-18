@@ -82,5 +82,8 @@
 -r:"C:\Users\ankrishn\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\ankrishn\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\ankrishn\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
+"D:\Anudeep\Resources\Projects\Dotnet-Design-Patterns\DesignPatterns\DesignPatterns\PatternType.cs"
 "D:\Anudeep\Resources\Projects\Dotnet-Design-Patterns\DesignPatterns\DesignPatterns\Program.cs"
+"D:\Anudeep\Resources\Projects\Dotnet-Design-Patterns\DesignPatterns\DesignPatterns\Creational\Abstract Factory\AbstractFactory.cs"
+"D:\Anudeep\Resources\Projects\Dotnet-Design-Patterns\DesignPatterns\DesignPatterns\Creational\Singleton\Singleton.cs"
 "D:\Anudeep\Resources\Projects\Dotnet-Design-Patterns\DesignPatterns\DesignPatterns\Properties\AssemblyInfo.cs"
